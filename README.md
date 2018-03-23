@@ -1,4 +1,4 @@
-# Nootbook-LXR
+# Notebook-LXR
 
 收录个人学习笔记。
 
